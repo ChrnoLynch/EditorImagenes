@@ -125,7 +125,7 @@
         android:layout_above="@+id/linearLayout3"
         android:id="@+id/panelColores"
         android:layout_margin="5dp"
-        android:visibility="visible">
+        android:visibility="gone">
 
         <ImageView
             android:layout_width="wrap_content"
